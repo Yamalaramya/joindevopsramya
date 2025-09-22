@@ -1,4 +1,4 @@
 #!/bin/bash
-echo please enter pin"
+echo "please enter pin"
 read pinnumber
-eche " entered pin $pinnumber "
+echo "entered pin $pinnumber "
